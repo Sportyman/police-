@@ -25,15 +25,15 @@ const HomePage: React.FC = () => {
     <div className="space-y-12">
       <div
         className="relative bg-cover bg-center h-[60vh] min-h-[450px] rounded-xl shadow-2xl overflow-hidden flex items-end justify-center text-white p-8"
-        style={{ backgroundImage: "url('https://images.unsplash.com/photo-1612128362147-b5025d5d886a?q=80&w=2070&auto=format&fit=crop')" }}
+        style={{ backgroundImage: "url('https://images.unsplash.com/photo-1629033403212-3329f70d3810?q=80&w=1974&auto=format&fit=crop')" }}
       >
         <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent" />
         <div className="relative z-10 text-center pb-4">
           <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold tracking-tight" style={{ textShadow: '2px 2px 10px rgba(0,0,0,0.8)' }}>
-            ציוד טקטי. אפס פשרות.
+            היתרון שלך בשטח
           </h1>
           <p className="mt-4 text-lg md:text-xl max-w-2xl mx-auto" style={{ textShadow: '1px 1px 6px rgba(0,0,0,0.7)' }}>
-            ציוד מקצועי שנבחר בקפידה, מלוחמים עבור לוחמים.
+            ציוד טקטי מקצועי. שירות אישי.
           </p>
           <button
             onClick={handleScrollToCatalog}
