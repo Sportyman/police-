@@ -30,7 +30,7 @@ const HomePage: React.FC = () => {
         <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent" />
         <div className="relative z-10 text-center pb-4">
           <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold tracking-tight" style={{ textShadow: '2px 2px 10px rgba(0,0,0,0.8)' }}>
-            הציוד הטקטי. האמינות שלך.
+            ציוד טקטי. אפס פשרות.
           </h1>
           <p className="mt-4 text-lg md:text-xl max-w-2xl mx-auto" style={{ textShadow: '1px 1px 6px rgba(0,0,0,0.7)' }}>
             ציוד מקצועי שנבחר בקפידה, מלוחמים עבור לוחמים.
